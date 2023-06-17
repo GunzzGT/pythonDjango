@@ -1,0 +1,2 @@
+# pythonDjango
+ django trial
